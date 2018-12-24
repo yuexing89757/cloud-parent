@@ -17,4 +17,11 @@ public class HelloController {
     public String createInstance() {
         return "早上好,";
     }
+
+
+
+    @RequestMapping("/test/hello")
+    public String hi(String name) {
+        return "hi";
+    }
 }

@@ -17,6 +17,7 @@
         <module>cloud-common</module>
         <module>cloud-hystrix</module>
         <module>cloud-ribbon</module>
+        <module>cloud-gateway</module>
     </modules>
 
 
